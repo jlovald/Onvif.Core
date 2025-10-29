@@ -84,7 +84,6 @@ public class Camera(Account account)
     }
     
 
-
     private DeviceClient _device;
     public DeviceClient Device
     {
